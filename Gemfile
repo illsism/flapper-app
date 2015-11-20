@@ -22,6 +22,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'devise', '~> 3.4.0'
 
 gem 'sprockets', '2.12.3'
 gem 'angular-rails-templates'
